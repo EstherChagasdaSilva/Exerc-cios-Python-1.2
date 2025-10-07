@@ -53,7 +53,7 @@ def suporte_cliente():
     print("Um email foi enviado para você")
 
 def opcoes_menu():
-    print("\n--- ✂ Barbearia Déyan ✂ ---")
+    print("\n--- ✂ Barbearia do Eric ✂ ---")
     print("1 - Registro de cliente")
     print("2 - Acesso ao sistema")
     print("3 - Reserva de corte")
@@ -83,4 +83,5 @@ while True:
         print("Encerrando o programa... Até breve")
         break
     else:
+
         print("Opção não reconhecida")
